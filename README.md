@@ -70,8 +70,8 @@ The project was tested by myself and peers
 * The bigger is your _max-iteration_, more laggy is your program. I think 100-150 is the best number. Same for the window size
 
 ## **Pics**
-![alt text](https://github.com/baltsaros/school19_experience/blob/main/fractol/pics/1.jpeg)
-![alt text](https://github.com/baltsaros/school19_experience/blob/main/fractol/pics/2.jpeg)
-![alt text](https://github.com/baltsaros/school19_experience/blob/main/fractol/pics/3.jpeg)
-![alt text](https://github.com/baltsaros/school19_experience/blob/main/fractol/pics/4.png)
-![alt text](https://github.com/baltsaros/school19_experience/blob/main/fractol/pics/5.png)
+![alt text](https://github.com/baltsaros/fractol/blob/main/pics/1.jpeg)
+![alt text](https://github.com/baltsaros/fractol/blob/main/pics/2.jpeg)
+![alt text](https://github.com/baltsaros/fractol/blob/main/pics/3.jpeg)
+![alt text](https://github.com/baltsaros/fractol/blob/main/pics/4.png)
+![alt text](https://github.com/baltsaros/fractol/blob/main/pics/5.png)
